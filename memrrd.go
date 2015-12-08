@@ -1,9 +1,5 @@
 package memrrd
 
-import (
-	"fmt"
-)
-
 type RRD struct {
 	name  string
 	value [10]int
