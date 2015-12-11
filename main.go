@@ -1,4 +1,4 @@
-package memrrd
+package main
 
 import (
 	"fmt"
